@@ -26,14 +26,14 @@ Fig. 1: vTaiwan Process (Beginning Process Template the vHawaii Project will fol
 
 ...
 
-**2) Mission Statement**
+**2) MISSION STATEMENT**
 
 To reimagine a stronger, more efficient, and more connected democratic problem solving process for Hawai’i through the embrace of technology, out-of-the-box thinking, and a consensus-based approach to policy-making.
 
 
 ...
 
-**3) Guiding Values**
+**3) GUIDING VALUES**
 
 -Respect
 
@@ -48,7 +48,7 @@ To reimagine a stronger, more efficient, and more connected democratic problem s
 
 ...
 
-**4) People**
+**4) PEOPLE**
 
 -Cameron Deptula (Co-Founder + Head Investigator)
 
@@ -78,7 +78,7 @@ Pol.is is an open-source, free surveying software that serves as a platform for 
 
 ...
 
-**6) Project Planning**
+**6) PROJECT PLANNING**
 
 Phase I: Develop vTaiwan Tools for Hawai'i Use
 
