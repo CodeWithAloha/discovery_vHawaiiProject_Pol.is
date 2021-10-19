@@ -67,7 +67,7 @@ To reimagine a stronger, more efficient, and more connected democratic problem s
 The vHawaii Project began out of the experience that two college students (Cameron and Rina) had with the 2021 State of Hawai’i Legislative Session, and contract work for the State of Hawai’i’s Department of Business, Economic Development, and Tourism. Both experiences made clear two things: state leaders are often hesitant to act boldly, despite high demand for action, and the general public was not being engaged through testimony writing and public consultations. Instead, traditional public engagement processes were dominated by lobbyists and special interest groups. It was clear that there was both a need for our leaders to receive better feedback from members of the public, and a need to find easier ways for average Hawai’i residents to have their voices heard on critical issues. Out of this need, the students convened a diverse group of local government professionals, business leaders, technologists, students, and members of the general public to explore an alternate path for decision-making, policy development, and public problem solving in the state--reimagining the way democracy might be conducted in Hawai’i.
 
 **Q: How is community engagement conducted currently in the State?**
-Community engagement throughout Hawaii typically relies on interactions between state leaders and the public through a mix of official, legally-mandated public input sessions via public hearings, informal interactions with the public through meeting requests or correspondence, and political opinion polling. Unfortunately, the first two methods of interactions too often result in either limited public engagement or leave leaders with little infrastructure to organize individual input into actionable feedback. Further, it's often the case that those who participate in these efforts are lobbyists, not the general public. Political opinion polling on the other hand allows leaders to view the opinion of individuals and groups around the state, however this process relies heavily on the quality of polling methodologies and leaves little room for consensus-based decision making or creative problem solving with the public.The vHawaii Project believes that a better way forward is possible, which can provide both the public more accessibility, ease-of-participation, and opportunities to improve government policies, and which can provide government officials broad participation, easy-to-manage processes, and clear recommendations to inform their decisions.
+Community engagement throughout Hawai'i typically relies on interactions between state leaders and the public through a mix of official, legally-mandated public input sessions via public hearings, informal interactions with the public through meeting requests or correspondence, and political opinion polling. Unfortunately, the first two methods of interactions too often result in either limited public engagement or leave leaders with little infrastructure to organize individual input into actionable feedback. Further, it's often the case that those who participate in these efforts are lobbyists, not the general public. Political opinion polling on the other hand allows leaders to view the opinion of individuals and groups around the state, however this process relies heavily on the quality of polling methodologies and leaves little room for consensus-based decision making or creative problem solving with the public.The vHawaii Project believes that a better way forward is possible, which can provide both the public more accessibility, ease-of-participation, and opportunities to improve government policies, and which can provide government officials broad participation, easy-to-manage processes, and clear recommendations to inform their decisions.
 
 **Q: What has the vTaiwan Process been used for in Taiwan’s Government?**
 The vTaiwan process was developed in 2015 by a group of Taiwanese government officials and civic activists as a way to source feedback from the public and overcome deadlocks as the country worked to resolve novel challenges. The process has been integrated as a tool into the Taiwanese government’s policy development process and has since been used to help draft solutions to over 26 regulatory issues dealing with controversial or novel subjects, such as online alcohol sales, Uber regulations, and FinTech regulations. The project inspired similar engagement work within Taiwan through the government-developed platform, Join, which is currently being leveraged by local government administrations to solicit public feedback and make key decisions across the country.   
@@ -134,7 +134,7 @@ Phase II: Carry Out Small vTaiwan Pilot
     
         2) Prepare platforms with infrastructure and data to accompany dicussion topic
 
-Phase III: Improve vTaiwan Process into vHawai'i Process
+Phase III: Improve vTaiwan Process into vHawaii Process
 
      Phase Goals: 
      
@@ -149,15 +149,15 @@ Phase III: Improve vTaiwan Process into vHawai'i Process
      ~Specifics To Be Developed After Completing Phase II~
 
      
-PHASE IV: Implement vHawai'i Process with Non-Profit/Community Group as a vHawai'i Community Case Study
+PHASE IV: Implement vHawaii Process with Non-Profit/Community Group as a vHawaii Community Case Study
 
     Goal:
     
-        1) Test out vHawai'i Process with real stakeholders (50+) and issues
+        1) Test out vHawaii Process with real stakeholders (50+) and issues
     
         2) Demonstrate functionality of program
     
-        3) Develop best practices for vHawai'i
+        3) Develop best practices for vHawaii
     
         4) Main Goal: Develop an actionable solution after fully running through project
     
@@ -169,7 +169,7 @@ PHASE IV: Implement vHawai'i Process with Non-Profit/Community Group as a vHawai
     
         -AinaViz (potential non-profit partner to consider)
     
-        -Chinatown Community Groups, Neighborhood Board, Chamber of Commerce, etc. (potential community to engage-- over an issue like dealing with Grafitti)
+        -Chinatown Community Groups, Neighborhood Board, Chamber of Commerce, etc. (potential community to engage-- over an issue like dealing with Graffitti)
     
     ~Specifics To Be Developed After Completing Phase II~
      
