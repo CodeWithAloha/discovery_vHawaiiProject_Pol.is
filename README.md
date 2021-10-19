@@ -13,6 +13,7 @@
 6) Project Planning
 
 
+
 **1) PROJECT DESCRIPTION**
 
 The vHawaii Project is a grassroots experiment to reimagine the way democratic political engagement and policy generation is approached in Hawai’i through the embrace of technology and online engagement. Our state is at a crossroads, requiring our community and leaders to make critical decisions for our state. However, traditional attempts at engaging with the community in meaningful dialogues have been failing us. From TMT to affordable housing development, there has been a disconnect between the decision making process relied on by local elected officials and the wishes of various community groups. This makes traditional decision making tools both unreliable for state leaders, and unrepresentative for local communities, paralyzing decision making and limiting progress in our state.
@@ -23,9 +24,14 @@ Fig. 1: vTaiwan Process (Beginning Process Template the vHawaii Project will fol
 
 <img src="https://user-images.githubusercontent.com/91935994/137854832-ad67e90d-ef3d-4c56-859a-bc26206112f6.png" width="600" height="400" />
 
+
+
 **2) Mission Statement**
 
 To reimagine a stronger, more efficient, and more connected democratic problem solving process for Hawai’i through the embrace of technology, out-of-the-box thinking, and a consensus-based approach to policy-making.
+
+
+
 
 **3) Guiding Values**
 
@@ -39,6 +45,9 @@ To reimagine a stronger, more efficient, and more connected democratic problem s
 
 -Innovation 
 
+
+
+
 **4) People**
 
 -Cameron Deptula (Co-Founder + Head Investigator)
@@ -48,6 +57,9 @@ To reimagine a stronger, more efficient, and more connected democratic problem s
 -Ben Trevino (Code for Hawai'i Sponsor)
 
 --> Advisory Committee (Coming Soon)
+
+
+
 
 **5) FAQs**
 
@@ -62,6 +74,9 @@ The vTaiwan process was developed in 2015 by a group of Taiwanese government off
 
 **Q: What is Pol.is and how does it relate to the vHawaii Project?**
 Pol.is is an open-source, free surveying software that serves as a platform for public consultations, leveraging AI techniques to help identify areas of consensus between participants. The vHawaii project is experimenting with this platform as a tool to better engage the public. Through Pol.is, participants register for a unique account and are able to participate in a “conversation.” After joining a conversation, participants are presented with a randomized series of comments, and are able to vote on each comment: up, down, or pass. These comments are either seeded by conversation hosts or are submitted by participants. If a participant has a novel idea or comment, they can submit their own to be voted on as well. These comments are lightly and transparently moderated by the conversation hosts to prevent spam or remove duplicative submissions. Much like traditional polling, the votes on these comments provide opinion data that can be analyzed to search for public opinion. Unlike traditional opinion polling, however, the ability for participants to provide ideas of their own through comment submissions allows for active problem solving, improving ideas, and finding consensus. The way participants interact with Pol.is is similar to a comment section on social media, except the order of submissions are randomized and replies between participants are disabled, which allows for more diverse opinions to be present and prevents divisive behavior between participants. Pol.is has been leveraged successfully by local governments throughout the US, East Asia, and Europe.
+
+
+
 
 **6) Project Planning**
 
