@@ -54,7 +54,7 @@ To reimagine a stronger, more efficient, and more connected democratic problem s
 
 -Rina Nagashima (Co-Founder)
 
--Ben Trevino (Code for Hawai'i Sponsor)
+-Ben Trevino (Code for Hawai'i Leadership Sponsor)
 
 --> Advisory Committee (Coming Soon)
 
