@@ -118,51 +118,58 @@ Phase II: Carry Out Small vTaiwan Pilot
 
     Phase Goals:
     
-    1) Learn more about each program through implementation
+        1) Learn more about each program through implementation
     
-    2) Solicit feedback from participants
+        2) Solicit feedback from participants
     
-    3) Use experience to identify improvements (if any) that vHawaii can improve the vTaiwan process within each category of the project values (R.E.T.R.I.).
+        3) Use experience to identify improvements (if any) that vHawaii can improve the vTaiwan process within each category of the project values (R.E.T.R.I.).
     
     Scale:
     
-    Small (~20 peopls) Pol.is with Code for Hawai'i Membership Base + Friends/Invites
+        Small (~20 people) Pol.is with Code for Hawai'i Membership Base + Friends/Invites
 
     Requirements:
     
-    1) Discussion topic -- relevant to audience
+        1) Discussion topic -- relevant to audience
     
-    2) Prepare platforms with infrastructure and data to accompany dicussion topic
+        2) Prepare platforms with infrastructure and data to accompany dicussion topic
 
 Phase III: Improve vTaiwan Process into vHawai'i Process
 
-     Goal: 
+     Phase Goals: 
      
-     Improve the vTaiwan Process based on feedback from participants and also better align the program to fit the five project values (R.E.T.R.I.), experiment with changes internally.
+        1) Improve the vTaiwan Process based on feedback from participants and also better align the program to fit the five project values (R.E.T.R.I.), experiment with changes internally.
      
      Ideas:
      
-     -Simplify Software to More Accessible/Familiar Software for Average HI Residents (idea submitted 10'18'2021)
+        -Simplify Software to More Accessible/Familiar Software for Average HI Residents (idea submitted 10'18'2021)
      
-     -Develop a Process Navigator--Website to centralize processes into one hub (embedded forms/webpages?) and connect participants with individuals who can help aid participation (idea submitted 10'18'2021)
+         -Develop a Process Navigator--Website to centralize processes into one hub (embedded forms/webpages?) and connect participants with individuals who can help aid participation (idea submitted 10'18'2021)
+     
+     ~Specifics To Be Developed After Completing Phase II~
+
      
 PHASE IV: Implement vHawai'i Process with Non-Profit/Community Group as a vHawai'i Community Case Study
 
     Goal:
     
-    1) Test out vHawai'i Process with real stakeholders (50+) and issues
+        1) Test out vHawai'i Process with real stakeholders (50+) and issues
     
-    2) Demonstrate functionality of program
+        2) Demonstrate functionality of program
     
-    3) Develop best practices for vHawai'i
+        3) Develop best practices for vHawai'i
     
-    4) Main Goal: Develop an actionable solution after fully running through project
+        4) Main Goal: Develop an actionable solution after fully running through project
+    
+    Scale:
+    
+        Medium (~50+ people) Real Stakeholders, Experts, Community Members
     
     Ideas:
     
-    -AinaViz (potential non-profit partner to consider)
+        -AinaViz (potential non-profit partner to consider)
     
-    -Chinatown Community Groups, Neighborhood Board, Chamber of Commerce, etc. (potential community to engage-- over an issue like dealing with Grafitti)
+        -Chinatown Community Groups, Neighborhood Board, Chamber of Commerce, etc. (potential community to engage-- over an issue like dealing with Grafitti)
     
     ~Specifics To Be Developed After Completing Phase II~
      
