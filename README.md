@@ -10,7 +10,7 @@
 
 5) FAQs
 
-6) Project Planning
+6) Project Planning [DRAFT]
 
 ...
 
