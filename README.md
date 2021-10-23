@@ -8,15 +8,15 @@
 
 # 📌 TOC
 
-I) 🗺️ Project Stage
+### I) 🗺️ Project Stage
 
-II) ☑️ To Do: Where & How
+### II) ☑️ To Do: Where & How
 
-III) 📔 Who is Doing What?
+### III) 📔 Who is Doing What?
 
-IV) 🧰 Completed Resources Library
+### IV) 🧰 Completed Resources Library
 
-V) 🏁 Finished Products
+### V) 🏁 Finished Products
 
 ***
 
