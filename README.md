@@ -62,11 +62,11 @@ Email cameronsdeptula@gmail.com or attend a Code for Hawai'i [online meeting](ht
 
  -Ben T.: Will introduce project team to [Transform Hawai'i Government](https://www.transformhawaiigov.org/). 
 
- -Cameron D.: Prepping outreach pitch with slide deck on venngage.
+ -Cameron D.: Prepping outreach pitch with slide deck on Venngage.
 
 ### **Research**
 
--Cameron D.: Pulling together documents from
+-Cameron D.: Pulling together documents.
 
 ### **Resource Development**
 
