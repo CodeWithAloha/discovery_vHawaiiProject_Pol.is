@@ -30,7 +30,7 @@ We are currently in Phase 0 of the project-- gathering support and organizing vo
 
 ## **Prospective Volunteers**: 
 
-Email cameronsdeptula@gmail.com or attend a Code for Hawai'i [online meeting](https://www.meetup.com/Code-for-Hawaii/) to learn how to get involved! 
+Email cameronsdeptula [at] gmail.com or attend a Code for Hawai'i [online meeting](https://www.meetup.com/Code-for-Hawaii/) to learn how to get involved! 
 * Code for Hawai'i meetups occur the first 3 Monday's of each month and run from 6PM-8PM HST. 
 * No coding experience required!
 
