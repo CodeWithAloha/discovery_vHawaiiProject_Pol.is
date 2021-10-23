@@ -40,6 +40,8 @@ Email cameronsdeptula@gmail.com or attend a Code for Hawai'i [online meeting](ht
 
 **Categories**: Advisory Team, Checking Work, Coordination, Finances, Outreach, Research, Resource Development
 
+-->Will be aligned with section II + needs of each project phase.
+
 ### **Advisory Team**
 
 -Ben T.: Code for Hawai'i Leadership Sponsor
