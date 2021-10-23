@@ -30,9 +30,9 @@ We are currently in Phase 0 of the project-- gathering support and organizing vo
 
 ## **Prospective Volunteers**: 
 
-Email cameronsdeptula@gmail.com or attend a Code for Hawai'i [online meeting](https://www.meetup.com/Code-for-Hawaii/) to learn how to get involved! Code for Hawai'i meetups occur the first 3 Monday's of each month and run from 6PM-8PM HST. 
-
-No coding experience required!
+Email cameronsdeptula@gmail.com or attend a Code for Hawai'i [online meeting](https://www.meetup.com/Code-for-Hawaii/) to learn how to get involved! 
+* Code for Hawai'i meetups occur the first 3 Monday's of each month and run from 6PM-8PM HST. 
+* No coding experience required!
 
 ## Tasks Needing to Be Filled:
 
@@ -46,43 +46,45 @@ No coding experience required!
 
 ### **Advisory Team**
 
--Ben T.: Code for Hawai'i Leadership Sponsor
+* Ben T.: Code for Hawai'i Leadership Sponsor
 
 ### **Checking Work**
 
--Rina N.: Providing feedback on plan, proofreading resources being produces, checking slide deck, etc.
+* Rina N.: Providing feedback on plan, proofreading resources being produces, checking slide deck, etc.
 
 ### **Coordination**
 
--Cameron D.: Coordinating initial organizational efforts, managing team, drafting project vision, strategy, and plan. 
+* Cameron D.: Coordinating initial organizational efforts, managing team, drafting project vision, strategy, and plan. 
 
 ### **Finances**
 
--Rina N.: Developing list of financial needs for project to succees (e.g. website hosting, software licensing, etc.)
+* Rina N.: Developing list of financial needs for project to succees (e.g. website hosting, software licensing, etc.)
 
 ### **Outreach** 
 
- -Ben T.: Will introduce project team to [Transform Hawai'i Government](https://www.transformhawaiigov.org/). 
+* Ben T.: Will introduce project team to [Transform Hawai'i Government](https://www.transformhawaiigov.org/). 
 
- -Cameron D.: Prepping outreach pitch with slide deck on Venngage.
+* Cameron D.: Prepping outreach pitch with slide deck on Venngage.
 
 ### **Research**
 
--Cameron D.: Pulling together documents.
+* Cameron D.: Pulling together documents.
 
 ### **Resource Development**
 
--Cameron D.: Developing foundation of project's GitHub (Readme + Wiki)
+* Cameron D.: Developing foundation of project's GitHub (Readme + Wiki)
 
 ***
 
 # IV) 🧰 Volunteer Resource Library
 
-vHawaii Wiki: [Informational Resources](https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is/wiki/Information-Resources)
+* vHawaii Wiki: [Informational Resources](https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is/wiki/Information-Resources)
 
 ***
 
 # V) 🏁 Finished Products/Parking Lot
+
+### Phase 0:
 
 [vHawaii Project Wiki](https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is/wiki) 
 
