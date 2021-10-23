@@ -79,6 +79,8 @@ Email cameronsdeptula [at] gmail.com or attend a Code for Hawai'i [online meetin
 # IV) 🧰 Volunteer Resource Library
 
 * vHawaii Wiki: [Informational Resources](https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is/wiki/Information-Resources)
+* vTaiwan Model Overview: 
+<img src="https://user-images.githubusercontent.com/91935994/137854832-ad67e90d-ef3d-4c56-859a-bc26206112f6.png" width="600" height="400" />
 
 ***
 
