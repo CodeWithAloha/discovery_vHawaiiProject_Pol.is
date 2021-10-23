@@ -1,176 +1,85 @@
-# **TABLE OF CONTENTS**
+# 🤙 Welcome to *the vHawaii Project*'s GitHub Page 🌺
 
-1) Project Description
+👀 - Please refer to the project's [Wiki page](https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is/wiki) for in-depth background info and an overview of the project's mission, values, people, and plan!
 
-2) Mission Statement
-
-3) Guiding Values
-
-4) People
-
-5) FAQs
-
-6) Project Planning [DRAFT]
+ℹ️ - *This file will contain operational information and guidance for new and continuing project volunteers to contribute*. 
 
 ***
 
-# **1) PROJECT DESCRIPTION**
+# 📌 TOC
 
-The vHawaii Project is a grassroots experiment to reimagine the way democratic political engagement and policy generation is approached in Hawai’i through the embrace of technology and online engagement. Our state is at a crossroads, requiring our community and leaders to make critical decisions for our state. However, traditional attempts at engaging with the community in meaningful dialogues have been failing us. From TMT to affordable housing development, there has been a disconnect between the decision making process relied on by local elected officials and the wishes of various community groups. This makes traditional decision making tools both unreliable for state leaders, and unrepresentative for local communities, paralyzing decision making and limiting progress in our state.
+I) 🗺️ Project Stage
 
-Drawing inspiration from the [vTaiwan Project](https://info.vtaiwan.tw/#five), undertaken by engaged citizens and government officials, implemented by the national government in Taiwan, the vHawaii project is experimenting with the vTaiwan process to improve, simplify, and adjust the framework to fit Hawai’i's unique cultural and political circumstances by Fall 2022. vHawaii is aiming to develop an efficient, nuanced, and transparent policy generation process embedded within state government that policymakers and community members alike can rely on for the state’s biggest decisions, grounded firmly in the principles of consensus-based decision making. The vHawaii project is currently being worked on by individuals from around the state, with generous volunteer support being provided by Code for Hawai'i.
+II) ☑️ To Do: Where & How
 
-Fig. 1: vTaiwan Process (Beginning Process Template the vHawaii Project will follow)
+III) 📔 Who is Doing What?
 
-<img src="https://user-images.githubusercontent.com/91935994/137854832-ad67e90d-ef3d-4c56-859a-bc26206112f6.png" width="600" height="400" />
+IV) 🧰 Completed Resources Library
 
-***
-
-# **2) MISSION STATEMENT**
-
-To reimagine a stronger, more efficient, and more connected democratic problem solving process for Hawai’i through the embrace of technology, out-of-the-box thinking, and a consensus-based approach to policy-making.
-
+V) 🏁 Finished Products
 
 ***
 
-# **3) GUIDING VALUES**
+# I) 🗺️ Project Stage
 
--Respect
-
--Effectiveness
-
--Transparency  
-
--Responsibility 
-
--Innovation 
-
+We are currently in Phase 0 of the project-- gathering support and organizing volunteer activities! Check back soon for more information!
 
 ***
 
-# **4) PEOPLE**
+# II) ☑️ To Do: Where & How?
 
--Cameron Deptula (Co-Founder + Head Investigator)
+## **Prospective Volunteers**: 
 
--Rina Nagashima (Co-Founder)
+Email cameronsdeptula@gmail.com or attend a Code for Hawai'i [online meeting](https://www.meetup.com/Code-for-Hawaii/) to learn how to get involved! Code for Hawai'i meetups occur the first 3 Monday's of each month and run from 6PM-8PM HST. No coding experience required!
 
--Ben Trevino (Code for Hawai'i Leadership Sponsor)
-
---> Advisory Committee (Coming Soon)
-
+## Tasks Needing to Be Filled:
 
 ***
 
-# **5) FAQs**
+# III) 📔 Who is Doing What?
 
-**Q: How did the vHawaii Project begin?**
-The vHawaii Project began out of the experience that two college students (Cameron and Rina) had with the 2021 State of Hawai’i Legislative Session, and contract work for the State of Hawai’i’s Department of Business, Economic Development, and Tourism. Both experiences made clear two things: state leaders are often hesitant to act boldly, despite high demand for action, and the general public was not being engaged through testimony writing and public consultations. Instead, traditional public engagement processes were dominated by lobbyists and special interest groups. It was clear that there was both a need for our leaders to receive better feedback from members of the public, and a need to find easier ways for average Hawai’i residents to have their voices heard on critical issues. Out of this need, the students convened a diverse group of local government professionals, business leaders, technologists, students, and members of the general public to explore an alternate path for decision-making, policy development, and public problem solving in the state--reimagining the way democracy might be conducted in Hawai’i.
+**Categories**: Advisory Team, Checking Work, Coordination, Finances, Outreach, Research, Resource Development
 
-**Q: How is community engagement conducted currently in the State?**
-Community engagement throughout Hawai'i typically relies on interactions between state leaders and the public through a mix of official, legally-mandated public input sessions via public hearings, informal interactions with the public through meeting requests or correspondence, and political opinion polling. Unfortunately, the first two methods of interactions too often result in either limited public engagement or leave leaders with little infrastructure to organize individual input into actionable feedback. Further, it's often the case that those who participate in these efforts are lobbyists, not the general public. Political opinion polling on the other hand allows leaders to view the opinion of individuals and groups around the state, however this process relies heavily on the quality of polling methodologies and leaves little room for consensus-based decision making or creative problem solving with the public.The vHawaii Project believes that a better way forward is possible, which can provide both the public more accessibility, ease-of-participation, and opportunities to improve government policies, and which can provide government officials broad participation, easy-to-manage processes, and clear recommendations to inform their decisions.
+### **Advisory Team**
 
-**Q: What has the vTaiwan Process been used for in Taiwan’s Government?**
-The vTaiwan process was developed in 2015 by a group of Taiwanese government officials and civic activists as a way to source feedback from the public and overcome deadlocks as the country worked to resolve novel challenges. The process has been integrated as a tool into the Taiwanese government’s policy development process and has since been used to help draft solutions to over 26 regulatory issues dealing with controversial or novel subjects, such as online alcohol sales, Uber regulations, and FinTech regulations. The project inspired similar engagement work within Taiwan through the government-developed platform, Join, which is currently being leveraged by local government administrations to solicit public feedback and make key decisions across the country.   
+-Ben T.: Code for Hawai'i Leadership Sponsor
 
-**Q: What is Pol.is and how does it relate to the vHawaii Project?**
-Pol.is is an open-source, free surveying software that serves as a platform for public consultations, leveraging AI techniques to help identify areas of consensus between participants. The vHawaii project is experimenting with this platform as a tool to better engage the public. Through Pol.is, participants register for a unique account and are able to participate in a “conversation.” After joining a conversation, participants are presented with a randomized series of comments, and are able to vote on each comment: up, down, or pass. These comments are either seeded by conversation hosts or are submitted by participants. If a participant has a novel idea or comment, they can submit their own to be voted on as well. These comments are lightly and transparently moderated by the conversation hosts to prevent spam or remove duplicative submissions. Much like traditional polling, the votes on these comments provide opinion data that can be analyzed to search for public opinion. Unlike traditional opinion polling, however, the ability for participants to provide ideas of their own through comment submissions allows for active problem solving, improving ideas, and finding consensus. The way participants interact with Pol.is is similar to a comment section on social media, except the order of submissions are randomized and replies between participants are disabled, which allows for more diverse opinions to be present and prevents divisive behavior between participants. Pol.is has been leveraged successfully by local governments throughout the US, East Asia, and Europe.
+### **Checking Work**
 
+-Rina N.: Providing feedback on plan, proofreading resources being produces, checking slide deck, etc.
+
+### **Coordination**
+
+-Cameron D.: Coordinating initial organizational efforts, managing team, drafting project vision, strategy, and plan. 
+
+### **Finances**
+
+-Rina N.: Developing list of financial needs for project to succees (e.g. website hosting, software licensing, etc.)
+
+### **Outreach** 
+
+ -Ben T.: Will introduce project team to [Transform Hawai'i Government](https://www.transformhawaiigov.org/). 
+
+ -Cameron D.: Prepping outreach pitch with slide deck on venngage.
+
+### **Research**
+
+-Cameron D.: Pulling together documents from
+
+### **Resource Development**
+
+-Cameron D.: Developing foundation of project's GitHub (Readme + Wiki)
 
 ***
 
-# **6) PROJECT PLANNING**
+# IV) 🧰 Volunteer Resource Library
 
-## PHASE I: Develop vTaiwan Tools for Hawai'i Use
+vHawaii Wiki: [Informational Resources](https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is/wiki/Information-Resources)
 
-    Phase Goals:
+***
 
-    1) Develop Full Digital Infrastructure Required for vTaiwan Process (Code for Hawai'i devs will help)
-    
-    2) Develop Collective Knowledge (via GitHub) and Share with Group on How to Set Up/Manage Programs
+# V) 🏁 Finished Products/Parking Lot
 
-    Step 1 (Proposal Stage): 
-              
-              **Hackpad** - Issue, Qualify Issue, Stakeholder Discovery
+[vHawaii Project Wiki](https://github.com/CodeforHawaii/discovery_vHawaiiProject_Pol.is/wiki) 
 
-    Step 2 (Opinion Stage): 
-
-              **Typeform** - Invite Stakeholders Through Rolling Questionnaires, Identify Affected/Knowledgeable People; 
-
-              **Slideshare** - Produce Informational Content Digestible by Stakeholders; 
-
-              **Facebook Ads** - Reach Out to General Public; 
-
-              **GitBook** - Interpret and Explain Terminologies; 
-
-              **Pol.is** - Online Deliberation; 
-
-              **Discourse** - Participants Ask Questions, Competent Agencies Respond.
-
-    Step 4 (Reflection Stage): 
-
-              **YouTube Live/LiveHouse.in** Face-to-Face Dialogue; 
-
-              **???** - Transcript of Dialogue.
-
-    Step 5 (Legislation Stage): Formalize Consensus into Policy/Action
-
-## PHASE II: Carry Out Small vTaiwan Pilot
-
-    Phase Goals:
-    
-        1) Learn more about each program through implementation
-    
-        2) Solicit feedback from participants
-    
-        3) Use experience to identify improvements (if any) that vHawaii can improve the vTaiwan process within each category of the project values (R.E.T.R.I.).
-    
-    Scale:
-    
-        Small (~20 people) Pol.is with Code for Hawai'i Membership Base + Friends/Invites
-
-    Requirements:
-    
-        1) Discussion topic -- relevant to audience
-    
-        2) Prepare platforms with infrastructure and data to accompany dicussion topic
-
-## PHASE III: Improve vTaiwan Process into vHawaii Process
-
-     Phase Goals: 
-     
-        1) Improve the vTaiwan Process based on feedback from participants and also better align the program to fit the five project values (R.E.T.R.I.), experiment with changes internally.
-     
-     Ideas:
-     
-        -Simplify Software to More Accessible/Familiar Software for Average HI Residents (idea submitted 10'18'2021)
-     
-         -Develop a Process Navigator--Website to centralize processes into one hub (embedded forms/webpages?) and connect participants with individuals who can help aid participation (idea submitted 10'18'2021)
-     
-     ~Specifics To Be Developed After Completing Phase II~
-
-     
-## PHASE IV: Implement vHawaii Process with Non-Profit/Community Group as a vHawaii Community Case Study
-
-    Goal:
-    
-        1) Test out vHawaii Process with real stakeholders (50+) and issues
-    
-        2) Demonstrate functionality of program
-    
-        3) Develop best practices for vHawaii
-    
-        4) Main Goal: Develop an actionable solution after fully running through project
-    
-    Scale:
-    
-        Medium (~50+ people) Real Stakeholders, Experts, Community Members
-    
-    Ideas:
-    
-        -AinaViz (potential non-profit partner to consider)
-    
-        -Chinatown Community Groups, Neighborhood Board, Chamber of Commerce, etc. (potential community to engage-- over an issue like dealing with Graffitti)
-    
-    ~Specifics To Be Developed After Completing Phase II~
-     
-## PHASE V: Compile Experiences into Website/Report, Formalize Process After Community Case Study
+[vHawaii Project Slide Deck v1.1 - PDF](https://drive.google.com/file/d/1Jb1lZKnHYh3CeCvugw4fcMUMXhkC4nC0/view?usp=sharing) 
