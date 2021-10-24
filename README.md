@@ -50,7 +50,7 @@ Email cameronsdeptula [at] gmail.com or attend a Code for Hawai'i [online meetin
 
 ### **Checking Work**
 
-* Rina N.: Providing feedback on plan, proofreading resources being produces, checking slide deck, etc.
+* Rina N.: Providing feedback on plan, proofreading resources being produced, checking slide deck, etc.
 
 ### **Coordination**
 
@@ -58,7 +58,7 @@ Email cameronsdeptula [at] gmail.com or attend a Code for Hawai'i [online meetin
 
 ### **Finances**
 
-* Rina N.: Developing list of financial needs for project to succees (e.g. website hosting, software licensing, etc.)
+* Rina N.: Developing list of financial needs for project to succeed (e.g. website hosting, software licensing, etc.)
 
 ### **Outreach** 
 
