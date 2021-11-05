@@ -28,6 +28,8 @@ We are currently in Phase 0 of the project-- gathering support and organizing vo
 
 # II) ☑️ To Do: Where & How?
 
+Please wait for Phase I updates!
+
 ## **Prospective Volunteers**: 
 
 Email cameronsdeptula [at] gmail.com or attend a Code for Hawai'i [online meeting](https://www.meetup.com/Code-for-Hawaii/) to learn how to get involved! 
