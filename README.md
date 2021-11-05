@@ -22,13 +22,11 @@
 
 # I) 🗺️ Project Stage
 
-We are currently in Phase 0 of the project-- gathering support and organizing volunteer activities! Check back soon for more information!
+We are currently in **Phase 0** of the project-- gathering support, developing financial infrastructure, and planning volunteer activities! Check back soon for more information!
 
 ***
 
 # II) ☑️ To Do: Where & How?
-
-Please wait for Phase I updates!
 
 ## **Prospective Volunteers**: 
 
@@ -37,6 +35,8 @@ Email cameronsdeptula [at] gmail.com or attend a Code for Hawai'i [online meetin
 * No coding experience required!
 
 ## Tasks Needing to Be Filled:
+
+Please wait for Phase I updates!
 
 ***
 
@@ -60,13 +60,17 @@ Email cameronsdeptula [at] gmail.com or attend a Code for Hawai'i [online meetin
 
 ### **Finances**
 
-* Rina N.: Developing list of financial needs for project to succeed (e.g. website hosting, software licensing, etc.)
+* Rina N.: Developing list of financial needs for project to succeed (e.g. website hosting, software licensing, etc.).
+
+* Cameron D.: Exploring [Open Collective](https://opencollective.com/) to develop transparent and efficient financial backbone for vHawaii.
 
 ### **Outreach** 
 
-* Ben T.: Will introduce project team to [Transform Hawai'i Government](https://www.transformhawaiigov.org/). 
+* Ben T.: Will introduce project team to [Transform Hawai'i Government](https://www.transformhawaiigov.org/).
 
 * Cameron D.: Prepping outreach pitch with slide deck on Venngage.
+
+* Rina N.: Scripps College Application.
 
 ### **Research**
 
